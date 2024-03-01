@@ -20,4 +20,4 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## Deploy
 
-O projeto está hospedado na plataforma Github Pages e pode ser acessado [aqui]().
+O projeto está hospedado na plataforma Github Pages e pode ser acessado [aqui](https://ebertryan.github.io/Catalogo-Starpacce/).
